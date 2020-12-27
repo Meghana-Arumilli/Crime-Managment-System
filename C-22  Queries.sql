@@ -1,0 +1,21 @@
+select *
+from COMPLAINT
+select *
+from PETITIONER
+select *
+from ACCUSED
+select *
+from CRIME 
+select *
+from FIR 
+select *
+from INVESTIGATION 
+select *
+from EVIDENCE 
+select *
+from OFFICER 
+select *
+from POSTMORTOM 
+select *
+from CHARGE_SHEET
+
