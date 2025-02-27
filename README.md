@@ -18,7 +18,7 @@ Database schema diagrams for clear system structure visualization
 
 ## Installation
 
-## Prerequisites
+### Prerequisites
 
 MySQL or any other compatible relational database management system (RDBMS)
 
